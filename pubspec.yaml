@@ -1,0 +1,55 @@
+name: adhd_new
+description: A new Flutter project for ADHD management
+
+publish_to: 'none' # Remove this line if you are publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0" # Adjust according to your required Dart version
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.0.9  # For toast notifications in memory quest
+  flutter_local_notifications: ^18.0.0  # For handling local notifications in ADHD management
+  flutter_staggered_grid_view: ^0.6.1  # For grid view layouts in ADHD project (optional)
+  flutter_lints: ^5.0.0  # For linting and code quality
+  # Add any other dependencies as needed
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+dependency_overrides:
+  # Place overrides here if there are any package version conflicts
+  # Example:
+  # timezone: ^0.9.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/potion.png
+    - assets/crystal.png
+    - assets/scroll.png
+    - assets/spellbook.png  # New assets added for memory quest
+    - assets/orb.png        # New assets added for memory quest
+    - assets/wand.png       # New assets added for memory quest
+    # ADHD Management Assets
+    - assets/images/little_fox.png
+    - assets/images/curious_caterpillar.png
+    - assets/images/inattentive_adhd.png
+    - assets/images/morning_routine.png
+    - assets/images/lion.png
+    - assets/images/tiger.png
+    - assets/images/elephant.png
+    - assets/images/zebra.png
+    - assets/images/giraffe.png
+    - assets/images/rhino.png
+    - assets/images/bear.png
+    - assets/images/monkey.png
+    - assets/images/panda.png
+    - assets/images/fox.png
+    - assets/images/wolf.png
+    - assets/images/koala.png
