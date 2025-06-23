@@ -71,56 +71,65 @@ By integrating task tracking, reminders, and goal setting, this app helps users 
 
 ## 📷 App Screenshots
 
-> Here's a quick preview of key features in the **ADHD Management Companion App**:
+> Here's a compact preview of the **ADHD Management Companion App** features:
 
 ### 🏠 Home Screen
-![Home](screens/adhd/Home.jpg)
+<p align="center">
+  <img src="screens/adhd/Home.jpg" width="200" height="350" />
+</p>
 
 ---
 
 ### 🧩 Puzzle Game
-![Puzzle Game](screens/adhd/puzzle.jpg)
+<p align="center">
+  <img src="screens/adhd/puzzle.jpg" width="200" height="350" />
+</p>
 
 ---
 
 ### 🎯 Goals Section
-![Goals](screens/adhd/goals.jpg)
+<p align="center">
+  <img src="screens/adhd/goals.jpg" width="200" height="350" />
+</p>
 
 ---
 
 ### 📊 Progress Tracker
-![Progress](screens/adhd/progress.jpg)
+<p align="center">
+  <img src="screens/adhd/progress.jpg" width="200" height="350" />
+</p>
 
 ---
 
 ### 🧠 Brain Games
-![Games](screens/adhd/games.jpg)
+<p align="center">
+  <img src="screens/adhd/games.jpg" width="200" height="350" />
+</p>
 
 ---
 
 ### 🦁 Safari Adventure Module
-![Safari](screens/adhd/safari.jpg)
+<p align="center">
+  <img src="screens/adhd/safari.jpg" width="200" height="350" />
+</p>
 
 ---
 
 ### 🔔 Reminders & Notifications
-![Reminders](screens/adhd/remainders.jpg)
+<p align="center">
+  <img src="screens/adhd/remainders.jpg" width="200" height="350" />
+</p>
 
 ---
 
 ### 📚 Interactive Stories
 
-#### 📖 Story 1
-![Story 1](screens/adhd/story1.jpg)
-
-#### 📖 Story 2
-![Story 2](screens/adhd/story2.jpg)
-
-#### 📖 Story 3
-![Story 3](screens/adhd/story3.jpg)
-
-#### 📖 Story 5
-![Story 5](screens/adhd/story5.jpg)
+<p align="center">
+  <img src="screens/adhd/story1.jpg" width="200" height="350" />
+  <img src="screens/adhd/story2.jpg" width="200" height="350" />
+  <img src="screens/adhd/story3.jpg" width="200" height="350" />
+  <img src="screens/adhd/story5.jpg" width="200" height="350" />
+</p>
 
 
 ## 📬 Contact
