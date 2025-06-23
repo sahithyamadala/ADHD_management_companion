@@ -1,9 +1,4 @@
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android%20%26%20Web-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Privacy-No%20Data%20Collection-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/User-Friendly-Child%20Safe-yellow?style=for-the-badge" />
-</p>
 
 <h1 align="center">🎯 ADHD Management Companion App</h1>
 <p align="center"><i>A Personalized Tool for Symptom Management</i></p>
@@ -74,26 +69,59 @@ By integrating task tracking, reminders, and goal setting, this app helps users 
 
 > 🌟 "Helping users stay focused, organized, and on track—one tap at a time."
 
----
+## 📷 App Screenshots
 
-## 👥 Team Members
+> Here's a quick preview of key features in the **ADHD Management Companion App**:
 
-- 👩‍💻 Madala Sri Sahithyanjali  
-- 👩‍💻 Pnv Trishala  
-- 👩‍💻 Veerapaneni Apoorva  
-- 👨‍💻 G. Kranthi Kumar
+### 🏠 Home Screen
+![Home](screens/adhd/Home.jpg)
 
 ---
 
-```
-
-![Home Screen](screenshots/home.png)
-![Goal Tracker](screenshots/goals.png)
-![Reminder Popup](screenshots/reminder.png)
-
-```
+### 🧩 Puzzle Game
+![Puzzle Game](screens/adhd/puzzle.jpg)
 
 ---
+
+### 🎯 Goals Section
+![Goals](screens/adhd/goals.jpg)
+
+---
+
+### 📊 Progress Tracker
+![Progress](screens/adhd/progress.jpg)
+
+---
+
+### 🧠 Brain Games
+![Games](screens/adhd/games.jpg)
+
+---
+
+### 🦁 Safari Adventure Module
+![Safari](screens/adhd/safari.jpg)
+
+---
+
+### 🔔 Reminders & Notifications
+![Reminders](screens/adhd/remainders.jpg)
+
+---
+
+### 📚 Interactive Stories
+
+#### 📖 Story 1
+![Story 1](screens/adhd/story1.jpg)
+
+#### 📖 Story 2
+![Story 2](screens/adhd/story2.jpg)
+
+#### 📖 Story 3
+![Story 3](screens/adhd/story3.jpg)
+
+#### 📖 Story 5
+![Story 5](screens/adhd/story5.jpg)
+
 
 ## 📬 Contact
 
